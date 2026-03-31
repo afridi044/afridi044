@@ -13,7 +13,6 @@
   <a href="YOUR_SCHOLAR"><img src="https://img.shields.io/badge/Google_Scholar-111827?style=for-the-badge&logo=googlescholar&logoColor=a78bfa" /></a>
 </p>
 
----
 
 <div align="center">
 
