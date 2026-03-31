@@ -14,7 +14,10 @@
 </p>
 
 
-<div align="center"> ### Hi, I'm Afridi 👋 Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**. *I care about one thing most — making AI systems reliable enough to be genuinely useful.* </div>
+<div align="center">
+### Hi, I'm Afridi 👋 
+Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**.
+*I care about one thing most — making AI systems reliable enough to be genuinely useful.* </div>
 ---
 
 ### 〉Featured Work
