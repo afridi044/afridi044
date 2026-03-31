@@ -35,11 +35,9 @@ working on <b>LLMs for code</b>, RAG systems, and AI for education.
 <br/>
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><i>making AI systems reliable enough to be genuinely useful.</i></td>
-  </tr>
-</table>
+<div align="center">
+  <i>making AI systems reliable enough to be genuinely useful.</i>
+</div>
 </div>
 
 ### 〉Featured Work
