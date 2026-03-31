@@ -44,11 +44,11 @@ working on <b>LLMs for code</b>, RAG systems, and AI for education.
 
 ### 〉Featured Work
 
-| # | Project | Description | Tag |
+| # | Project | Description | 
 |---|---------|-------------|-----|
-| 01 | **Pinned-Contract Evaluation** | Policy-grounded evaluation for LLM-based PHP migration — reproducible scoring, pinned upgrade contracts, cross-oracle diagnostics. | `Eval` |
-| 02 | **ExamCraft** | AI-powered exam prep platform — adaptive quizzes, flashcards, mock exams, and learning analytics built to scale. | `Product` |
-| 03 | **Bangla Textbook RAG** | Hierarchy-aware retrieval and hybrid fusion for educational QA in Bangla — tackling low-resource challenges head-on. | `NLP` |
+| 01 | **Pinned-Contract Evaluation** | Policy-grounded evaluation for LLM-based PHP migration — reproducible scoring, pinned upgrade contracts, cross-oracle diagnostics. | 
+| 02 | **ExamCraft** | AI-powered exam prep platform — adaptive quizzes, flashcards, mock exams, and learning analytics built to scale. | 
+| 03 | **Bangla Textbook RAG** | Hierarchy-aware retrieval and hybrid fusion for educational QA in Bangla — tackling low-resource challenges head-on. | 
 
 ---
 
