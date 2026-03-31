@@ -1,114 +1,78 @@
 <div align="center">
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=185&color=0:7C3AED,50:EC4899,100:22D3EE&text=Afridi%20Mahmud&fontColor=ffffff&fontSize=36&fontAlignY=58&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=79&descColor=f8fafc&animation=fadeIn" width="100%" />
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818CF8&center=true&vCenter=true&width=680&height=28&lines=If%20you%20can%27t%20evaluate%20it%2C%20you%20don%27t%20understand%20it" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2200&color=818CF8&center=true&vCenter=true&width=700&height=28&lines=Building+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;If+you+can%27t+evaluate+it%2C+you+don%27t+understand+it" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-
-[![](https://img.shields.io/badge/Website-020617?style=flat-square&logo=vercel&logoColor=818cf8)](YOUR_WEBSITE)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square)](YOUR_LINKEDIN)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=818cf8)](mailto:afridimahmud99@gmail.com)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Google%20Scholar-020617?style=flat-square&logo=googlescholar&logoColor=818cf8)](YOUR_SCHOLAR)
-
-</div>
+<p align="center">
+  <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=a78bfa" /></a>
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&color=111827" /></a>
+  <a href="mailto:afridimahmud99@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
+  <a href="YOUR_SCHOLAR"><img src="https://img.shields.io/badge/Google_Scholar-111827?style=for-the-badge&logo=googlescholar&logoColor=a78bfa" /></a>
+</p>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## Hey, I’m Afridi
 
-### `whoami`
+I’m a final-year **CSE student at BUET** working at the intersection of **AI, software engineering, and education**.
 
-Final-year **CSE** student at **BUET**, spending most of my time on one question:
+What drives me most is a simple question:
 
-> *How do we make AI systems reliable enough to be genuinely useful — not just impressive in demos?*
+> **How do we make AI systems reliable enough to be genuinely useful — not just impressive in demos?**
 
-I work at the intersection of **language models**, **retrieval**, and **rigorous evaluation** — with an equal obsession for building things that actually ship.
+That question shapes both my research and the things I build.
 
-</td>
-<td width="50%" valign="top">
-
-### `interests[]`
-
-```yaml
-research:
-  - LLM-generated code evaluation
-  - RAG systems & hybrid retrieval
-  - AI for education (low-resource)
-
-engineering:
-  - full-stack AI products
-  - evaluation pipeline design
-  - reproducible benchmarks
-```
-
-</td>
-</tr>
-</table>
+I work on **LLMs for code**, **retrieval-grounded systems**, and **AI products for learning** — with a strong focus on **evaluation, system design, and practical usefulness**.
 
 ---
 
-### `selected_projects`
+## What I’m working on
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**📐 Pinned-Contract Eval**
-
-Policy-grounded evaluation for LLM-based PHP migration. Reproducible scoring, pinned upgrade contracts, cross-oracle diagnostics.
-
-`evaluation` `LLMs` `PHP` `code-migration`
-
-</td>
-<td width="33%" valign="top">
-
-**🎯 ExamCraft**
-
-End-to-end AI exam prep — quizzes, flashcards, mock exams, and learning analytics. Research ideas turned into a product learners actually use.
-
-`Next.js` `NestJS` `AI` `education`
-
-</td>
-<td width="33%" valign="top">
-
-**📚 Bangla Textbook RAG**
-
-Hierarchy-aware retrieval and hybrid fusion for educational QA in a low-resource language. Grounded AI where it matters most.
-
-`RAG` `dense-retrieval` `NLP` `Bengali`
-
-</td>
-</tr>
-</table>
+- **LLMs for code** — refactoring, migration, and transformation reliability  
+- **RAG systems** — hybrid retrieval, grounding, and ranking  
+- **AI for education** — tools for learning, assessment, and learner support  
+- **Evaluation** — measuring what models actually do, not what we hope they do  
 
 ---
 
-### `tech_stack`
+## Featured work
 
-```
-Languages    TypeScript  ·  JavaScript  ·  Python  ·  SQL
-Frontend     React  ·  Next.js
-Backend      NestJS  ·  Node.js
-AI / ML      OpenAI  ·  Gemini  ·  OpenRouter  ·  RAG  ·  Vector Search
-Infra        Supabase  ·  Docker  ·  GitHub Actions  ·  Jest
-```
+### 📐 Pinned-Contract Evaluation
+A policy-grounded framework for evaluating **LLM-based PHP migration**, built around reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics.
+
+### 🎯 ExamCraft
+An **AI-powered exam preparation platform** with quizzes, flashcards, mock exams, and learning analytics — designed to turn AI workflows into something learners can actually use.
+
+### 📚 Bangla Textbook RAG
+A retrieval project for **educational QA in Bangla**, focused on hierarchy-aware chunking, dense retrieval, and hybrid fusion for grounded answers in a low-resource setting.
+
+---
+
+## Tech
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=f43f5e" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Gemini-0f172a?style=flat-square&logo=google&logoColor=818cf8" />
+  <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase&logoColor=3ecf8e" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/Jest-0f172a?style=flat-square&logo=jest&logoColor=f97316" />
+</p>
 
 ---
 
 <div align="center">
-
-<sub>Building reliable AI — for code, learning, and beyond. &nbsp;·&nbsp; Dhaka, Bangladesh</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e1b4b,100:020617&section=footer" width="100%" />
-
+  <sub>Building reliable AI for code, learning, and real-world systems.</sub>
 </div>
