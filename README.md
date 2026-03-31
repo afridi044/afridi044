@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="./image.png" alt="AI crystal hero banner" width="92%" />
+  <img src="./Git_image.png" alt="banner" width="92%" />
 </p>
 
 
