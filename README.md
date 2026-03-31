@@ -14,6 +14,11 @@
 </p>
 
 
+<p align="center">
+  <img src="./image.png" alt="AI crystal hero banner" width="92%" />
+</p>
+
+
 <div align="center">
 
 <picture>
