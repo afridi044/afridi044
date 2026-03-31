@@ -21,11 +21,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:3730A3,100:5B21B6&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=18&fontAlignY=36&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=E9D5FF&descSize=11&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=72&color=0:3730A3,100:5B21B6&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=18&fontAlignY=36&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=E9D5FF&descSize=11&descAlignY=68&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:4C1D95,100:6D28D9&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=ffffff&fontSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:4C1D95,100:6D28D9&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=ffffff&fontSize=14&animation=fadeIn" width="100%" />
 
 </div>
 
