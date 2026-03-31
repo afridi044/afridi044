@@ -13,32 +13,40 @@
   <a href="YOUR_SCHOLAR"><img src="https://img.shields.io/badge/Google_Scholar-111827?style=for-the-badge&logo=googlescholar&logoColor=a78bfa" /></a>
 </p>
 
+---
+
 <div align="center">
 
-## Hi, I'm Afridi 👋
+### Hi, I'm Afridi 👋
 
 Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**.
 
-I care about one thing most:  
-**making AI systems reliable enough to be genuinely useful.**
+*I care about one thing most — making AI systems reliable enough to be genuinely useful.*
 
 </div>
 
 ---
 
-### Featured
+### 〉Featured Work
 
-**📐 Pinned-Contract Evaluation**  
-Policy-grounded evaluation for **LLM-based PHP migration** with reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics.
-
-**🎯 ExamCraft**  
-An **AI-powered exam prep platform** with quizzes, flashcards, mock exams, and learning analytics.
-
-**📚 Bangla Textbook RAG**  
-Hierarchy-aware retrieval and hybrid fusion for **educational QA in Bangla** in a low-resource setting.
+| # | Project | Description | Tag |
+|---|---------|-------------|-----|
+| 01 | **Pinned-Contract Evaluation** | Policy-grounded evaluation for LLM-based PHP migration — reproducible scoring, pinned upgrade contracts, cross-oracle diagnostics. | `Eval` |
+| 02 | **ExamCraft** | AI-powered exam prep platform — adaptive quizzes, flashcards, mock exams, and learning analytics built to scale. | `Product` |
+| 03 | **Bangla Textbook RAG** | Hierarchy-aware retrieval and hybrid fusion for educational QA in Bangla — tackling low-resource challenges head-on. | `NLP` |
 
 ---
 
-### Stack
+### 〉Stack
 
-`TypeScript` `JavaScript` `Python` `SQL` `React` `Next.js` `NestJS` `
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=a78bfa)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=a78bfa)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=a78bfa)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=a78bfa)
+
+---
+
+> *"If you can't **evaluate** it, you don't understand it."*
