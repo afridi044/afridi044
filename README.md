@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2200&color=818CF8&center=true&vCenter=true&width=700&height=26&lines=Building+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;If+you+can%27t+evaluate+it%2C+you+don%27t+understand+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2200&color=818CF8&center=true&vCenter=true&width=700&height=26&lines=Building+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,8 +17,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=9999&color=8B5CF6&center=true&vCenter=true&width=320&height=18&lines=AFRIDI+MAHMUD+%C2%B7+BUET+CSE" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=9999&color=8B5CF6&center=true&vCenter=true&width=320&height=18&lines=AFRIDI+MAHMUD+%C2%B7+BUET+CSE" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=9999&color=8B5CF6&center=true&vCenter=true&width=420&height=26&lines=Hi%2C+I%27m+Afridi+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=9999&color=8B5CF6&center=true&vCenter=true&width=420&height=26&lines=Hi%2C+I%27m+Afridi+%F0%9F%91%8B" />
 </picture>
 
 </div>
@@ -37,12 +37,10 @@ working on <b>LLMs for code</b>, RAG systems, and AI for education.
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0"><tr><td>
 
-> *I care about one thing most —*<br/>
 > *making AI systems reliable enough to be genuinely useful.*
 
 </td></tr></table>
 </div>
----
 
 ### 〉Featured Work
 
