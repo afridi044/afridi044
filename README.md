@@ -1,59 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0f172a,100:1e1b4b&text=S.M%20Afridi%20Mahmud&fontColor=e2e8f0&fontSize=38&fontAlignY=55&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=75&descColor=94a3b8&animation=blinking" width="100%" />
 
-# 👋 Hi, This is Afridi.
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=6366F1&center=true&vCenter=true&width=720&lines=Researcher+%7C+BUET+CSE;Making+AI+systems+reliable+enough+to+be+genuinely+useful;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education" />
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818cf8&center=true&vCenter=true&width=680&height=40&lines=→+Making+AI+systems+reliable+enough+to+be+genuinely+useful;→+LLMs+for+Code+%7C+RAG+Systems+%7C+AI+for+Education;→+If+you+can't+evaluate+it%2C+you+don't+understand+it" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Website-020617?style=flat-square&logo=vercel&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_WEBSITE)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_LINKEDIN)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=818cf8&label=&labelColor=0f172a)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Google%20Scholar-020617?style=flat-square&logo=googlescholar&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_SCHOLAR)
 
 </div>
 
 ---
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `whoami`
+
+Final-year **CSE** student at **BUET**, spending most of my time on one question:
+
+> *How do we make AI systems reliable enough to be genuinely useful — not just impressive in demos?*
+
+I work at the intersection of **language models**, **retrieval**, and **rigorous evaluation** — with an equal obsession for building things that actually ship.
+
+</td>
+<td width="50%" valign="top">
+
+### `interests[]`
+
+```yaml
+research:
+  - LLM-generated code evaluation
+  - RAG systems & hybrid retrieval
+  - AI for education (low-resource)
+
+engineering:
+  - full-stack AI products
+  - evaluation pipeline design
+  - reproducible benchmarks
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `selected_projects`
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**📐 Pinned-Contract Eval**
+
+Policy-grounded evaluation for LLM-based PHP migration. Reproducible scoring, pinned upgrade contracts, cross-oracle diagnostics.
+
+`evaluation` `LLMs` `PHP` `code-migration`
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 ExamCraft**
+
+End-to-end AI exam prep — quizzes, flashcards, mock exams, and learning analytics. Research ideas turned into a product learners actually use.
+
+`Next.js` `NestJS` `AI` `education`
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Bangla Textbook RAG**
+
+Hierarchy-aware retrieval and hybrid fusion for educational QA in a low-resource language. Grounded AI where it matters most.
+
+`RAG` `dense-retrieval` `NLP` `Bengali`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `tech_stack`
+
+```
+Languages    TypeScript  ·  JavaScript  ·  Python  ·  SQL
+Frontend     React  ·  Next.js
+Backend      NestJS  ·  Node.js
+AI / ML      OpenAI  ·  Gemini  ·  OpenRouter  ·  RAG  ·  Vector Search
+Infra        Supabase  ·  Docker  ·  GitHub Actions  ·  Jest
+```
+
+---
+
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](YOUR_WEBSITE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/📧-Email-red?style=for-the-badge&labelColor=black&color=red)](mailto:YOUR_EMAIL)
+<sub>Building reliable AI — for code, learning, and beyond. &nbsp;·&nbsp; Dhaka, Bangladesh</sub>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e1b4b,100:020617&section=footer" width="100%" />
 
-## 🧬 **About Me**
-
-- 🎓 **Final-year CSE student** | Bangladesh University of Engineering and Technology (BUET)
-- 🤖 **Research Focus** | LLMs for code, RAG systems, and AI for education
-- 🔍 **Core Obsession** | Building AI systems reliable enough to be genuinely useful — not just impressive in demos
-- 🛠 **Builder** | Turning research ideas into full-stack AI products people can actually trust
-- 📍 **Based in Dhaka, Bangladesh**
-
----
-
-## 🌟 **Philosophy**
-
-> <kbd>***"If we cannot evaluate what a system is doing, we probably do not understand it well enough."***</kbd>
-
-I believe the most important work in AI right now isn't building flashier models — it's making the ones we have trustworthy, measurable, and genuinely useful. Always open to conversations about research, products, education, or anything at the intersection of ideas and engineering.
-
----
-
-## 🚀 **Selected Work**
-
-**`Pinned-Contract Evaluation`** — Policy-grounded evaluation framework for LLM-based PHP migration. Built around reproducible scoring and cross-oracle diagnostics.
-
-**`ExamCraft`** — AI-powered exam prep platform with quizzes, flashcards, mock exams, and learning analytics.
-
-**`Bangla Textbook Retrieval`** — Benchmark-driven retrieval for educational QA in a low-resource language setting.
-
----
-
-## 🛠 **Stack**
-
-`TypeScript` `Next.js` `NestJS` `React` `Node.js` `SQL` `OpenAI` `Gemini` `RAG` `Vector Search` `Supabase` `Docker` `GitHub Actions`
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 </div>
