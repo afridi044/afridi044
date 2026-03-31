@@ -18,7 +18,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Website-020617?style=flat-square&logo=vercel&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_WEBSITE)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_LINKEDIN)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square&label=&labelColor=0f172a)](YOUR_LINKEDIN)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=818cf8&label=&labelColor=0f172a)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Google%20Scholar-020617?style=flat-square&logo=googlescholar&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_SCHOLAR)
 
