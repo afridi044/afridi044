@@ -1,88 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,24&text=S.M%20Afridi%20Mahmud&fontSize=42&fontAlignY=35&desc=Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20for%20Software%20Engineering%20and%20Education&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=12,20,24&text=S.M%20Afridi%20Mahmud&fontSize=42&fontAlignY=35&desc=Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20for%20Software%20Engineering%20and%20Education&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;Building+reliable+AI+systems+that+go+beyond+demo-quality;Research-focused+mindset+with+builder-grade+execution" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=I+build+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;Research-minded+%2B+product-driven+%2B+reliability-obsessed" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## Hey, I’m Afridi 👋
 
-I’m a final-year Computer Science and Engineering student at **BUET**, working at the intersection of **AI, software engineering, and education**. My work is centered on a question that I find deeply compelling: **how do we make language models not just capable, but reliable enough to support real systems?** 
+I’m a final-year **Computer Science and Engineering** student at **BUET**, and I spend most of my time thinking about one thing:
 
-My research explores **LLM-assisted code refactoring and version migration**, with an emphasis on **evaluation, policy-grounded measurement, and transformation reliability**. Alongside that, I build **AI-powered educational systems** and **full-stack products** that combine retrieval, generation, and thoughtful system design into tools people can actually use. 
+> **How do we make AI systems reliable enough to be genuinely useful — not just impressive in demos?**
 
-I’m especially interested in pushing AI from **impressive prototypes** toward **trustworthy infrastructure** for software maintenance, developer tooling, and learning systems. 
+That question sits at the center of how I work.
 
----
+Sometimes it leads me into **research on LLM-assisted code refactoring, version migration, and evaluation**.  
+Sometimes it turns into **full-stack AI products for education**.  
+And often, it becomes the space in between — where careful engineering meets ambitious ideas.
 
-## What I Work On
-
-- **LLMs for code** — refactoring, migration, and evaluation
-- **RAG systems** — hybrid retrieval, grounded generation, and ranking
-- **AI for education** — tutoring, assessment, and learner support
-- **Full-stack systems** — turning research ideas into usable products
-- **Reliability & evaluation** — measuring what AI systems actually do
+I’m especially drawn to problems where **language models, retrieval systems, and product design** all have to come together to build something people can actually trust.
 
 ---
 
-## Selected Work
+## What I’m Into
 
-### Pinned-Contract Evaluation
-A policy-grounded framework for evaluating **LLM-based PHP migration**, designed around reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics. This work reflects my core research interest in making AI-generated code transformations measurable and trustworthy. 
+🛠 **LLMs for code**  
+Refactoring, migration, code transformation, and evaluation beyond surface-level correctness.
 
-### ExamCraft
-An **AI-powered exam preparation platform** built around quizzes, flashcards, mock exams, and learning analytics. This project represents my builder side: taking intelligent workflows and turning them into a polished full-stack learning product. 
+🔎 **RAG systems**  
+Hybrid retrieval, ranking, grounded generation, and knowledge-heavy workflows that need to stay reliable.
 
-### Bangla Textbook Retrieval
-A benchmark-driven retrieval project for **educational QA**, focused on hierarchy-aware units, dense retrieval, and hybrid fusion. It reflects my broader interest in grounded AI systems for learning in low-resource settings.
+🎓 **AI for education**  
+Learning tools, assessment systems, tutoring experiences, and educational QA — especially in meaningful, practical settings.
 
----
+🚀 **Research + product execution**  
+I love taking ideas from “this could be interesting” to “this actually works.”
 
-## Research Direction
-
-I’m drawn to research problems where **model capability meets system-level rigor**:
-
-- evaluating LLM-generated code beyond surface correctness  
-- building retrieval-grounded learning systems that are actually useful  
-- studying how AI systems can support education with structure, transparency, and reliability  
-- designing tools where strong engineering matters just as much as model quality  
+📏 **Reliability and measurement**  
+Because if we cannot evaluate what a system is doing, we probably do not understand it well enough.
 
 ---
 
-## Stack
+## A Bit More About My Work
 
-**Languages & Frameworks**  
-TypeScript • JavaScript • SQL • Next.js • NestJS • React • Node.js
+My research is focused on **making LLM-generated code transformations measurable and trustworthy**.  
+I care a lot about evaluation design, reproducibility, and whether a model’s output actually holds up when it matters.
 
-**AI & Retrieval**  
-OpenAI • Gemini • OpenRouter • RAG • Vector Search • Hybrid Retrieval • Evaluation Pipelines
+At the same time, I enjoy building products that are fast, usable, and real — especially systems that combine:
 
-**Systems & Tooling**  
-Supabase • Docker • GitHub Actions • CI/CD • Jest
+- retrieval
+- generation
+- structured workflows
+- thoughtful UI and backend design
 
----
-
-## Beyond the Code
-
-I like building things that sit between **research depth** and **practical impact**.  
-The kind of work that is not only interesting on paper, but also useful in the hands of real users.
+The sweet spot for me is work that feels both **intellectually deep** and **practically useful**.
 
 ---
 
-## Connect
+## Selected Projects
+
+### 📌 Pinned-Contract Evaluation
+A policy-grounded evaluation framework for **LLM-based PHP migration**.
+
+Built around reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics, this project reflects my core research interest:  
+**how do we evaluate AI-generated code changes in a way that is rigorous, interpretable, and actually useful?**
+
+---
+
+### 🎯 ExamCraft
+An **AI-powered exam preparation platform** built with quizzes, flashcards, mock exams, and learning analytics.
+
+This is one of the projects that represents my builder side most clearly — turning AI workflows into a polished system that learners can genuinely use.
+
+---
+
+### 📚 Bangla Textbook Retrieval
+A benchmark-driven retrieval project for **educational question answering**.
+
+Focused on hierarchy-aware units, dense retrieval, and hybrid fusion, this project sits close to my interest in **grounded AI for learning**, especially in **low-resource settings**.
+
+---
+
+## Research Themes I Care About
+
+- evaluating LLM-generated code beyond “it looks right”
+- building retrieval-grounded systems that stay useful under real constraints
+- designing AI tools for education with more structure, transparency, and trust
+- creating systems where **engineering quality** matters just as much as **model capability**
+
+---
+
+## Tech I Use
+
+### Languages & Frameworks
+`TypeScript` `JavaScript` `SQL` `React` `Next.js` `NestJS` `Node.js`
+
+### AI & Retrieval
+`OpenAI` `Gemini` `OpenRouter` `RAG` `Vector Search` `Hybrid Retrieval` `Evaluation Pipelines`
+
+### Systems & Tooling
+`Supabase` `Docker` `GitHub Actions` `CI/CD` `Jest`
+
+---
+
+## What Drives Me
+
+I like building in the space between **research depth** and **real-world impact**.
+
+The kind of work that is:
+- technically serious
+- well engineered
+- useful to real people
+- and honest about what AI can and cannot do
+
+That is the kind of builder-researcher I’m trying to become.
+
+---
+
+## Let’s Connect
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_GOOGLE_SCHOLAR_OR_WEBSITE"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_GOOGLE_SCHOLAR_OR_WEBSITE">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+<div align="center">
+  <b>Building reliable AI systems — for code, learning, and beyond.</b>
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" />
