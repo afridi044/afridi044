@@ -49,4 +49,4 @@ Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and 
 
 ---
 
-> *"If you can't **evaluate** it, you don't understand it."*
+> *"The future belongs to AI systems people can actually rely on."*
