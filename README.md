@@ -21,11 +21,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:EC4899,100:F59E0B&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=22&fontAlignY=38&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=fff7ed&descSize=13&descAlignY=68" width="100%" />
-
-<br/>
-
-<sub><i>Making AI systems reliable enough to be genuinely useful.</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:06B6D4,100:3B82F6&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=22&fontAlignY=34&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education%20%E2%80%A2%20Reliability-first%20AI&descColor=e0f2fe&descSize=12&descAlignY=66" width="100%" />
 
 </div>
 
