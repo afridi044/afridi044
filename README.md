@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0f172a,100:1e1b4b&text=S.M%20Afridi%20Mahmud&fontColor=e2e8f0&fontSize=38&fontAlignY=55&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=75&descColor=94a3b8&animation=fadeIn" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:7C3AED,50:EC4899,100:22D3EE&text=S.M%20Afridi%20Mahmud&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=75&descColor=f8fafc&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -17,10 +19,10 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Website-020617?style=flat-square&logo=vercel&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_WEBSITE)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square&label=&labelColor=0f172a)](YOUR_LINKEDIN)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=818cf8&label=&labelColor=0f172a)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Google%20Scholar-020617?style=flat-square&logo=googlescholar&logoColor=818cf8&label=&labelColor=0f172a)](YOUR_SCHOLAR)
+[![](https://img.shields.io/badge/Website-020617?style=flat-square&logo=vercel&logoColor=818cf8)](YOUR_WEBSITE)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-020617?style=flat-square)](YOUR_LINKEDIN)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=818cf8)](mailto:YOUR_EMAIL)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Google%20Scholar-020617?style=flat-square&logo=googlescholar&logoColor=818cf8)](YOUR_SCHOLAR)
 
 </div>
 
