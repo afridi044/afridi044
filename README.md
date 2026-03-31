@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2200&color=818CF8&center=true&vCenter=true&width=700&height=28&lines=Building+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;If+you+can%27t+evaluate+it%2C+you+don%27t+understand+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2200&color=818CF8&center=true&vCenter=true&width=700&height=26&lines=Building+AI+systems+that+need+to+work+in+the+real+world;LLMs+for+Code+%E2%80%A2+RAG+Systems+%E2%80%A2+AI+for+Education;If+you+can%27t+evaluate+it%2C+you+don%27t+understand+it" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,66 +13,32 @@
   <a href="YOUR_SCHOLAR"><img src="https://img.shields.io/badge/Google_Scholar-111827?style=for-the-badge&logo=googlescholar&logoColor=a78bfa" /></a>
 </p>
 
----
-
-## Hey, I’m Afridi
-
-I’m a final-year **CSE student at BUET** working at the intersection of **AI, software engineering, and education**.
-
-What drives me most is a simple question:
-
-> **How do we make AI systems reliable enough to be genuinely useful — not just impressive in demos?**
-
-That question shapes both my research and the things I build.
-
-I work on **LLMs for code**, **retrieval-grounded systems**, and **AI products for learning** — with a strong focus on **evaluation, system design, and practical usefulness**.
-
----
-
-## What I’m working on
-
-- **LLMs for code** — refactoring, migration, and transformation reliability  
-- **RAG systems** — hybrid retrieval, grounding, and ranking  
-- **AI for education** — tools for learning, assessment, and learner support  
-- **Evaluation** — measuring what models actually do, not what we hope they do  
-
----
-
-## Featured work
-
-### 📐 Pinned-Contract Evaluation
-A policy-grounded framework for evaluating **LLM-based PHP migration**, built around reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics.
-
-### 🎯 ExamCraft
-An **AI-powered exam preparation platform** with quizzes, flashcards, mock exams, and learning analytics — designed to turn AI workflows into something learners can actually use.
-
-### 📚 Bangla Textbook RAG
-A retrieval project for **educational QA in Bangla**, focused on hierarchy-aware chunking, dense retrieval, and hybrid fusion for grounded answers in a low-resource setting.
-
----
-
-## Tech
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=f43f5e" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Gemini-0f172a?style=flat-square&logo=google&logoColor=818cf8" />
-  <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase&logoColor=3ecf8e" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=60a5fa" />
-  <img src="https://img.shields.io/badge/Jest-0f172a?style=flat-square&logo=jest&logoColor=f97316" />
-</p>
-
----
-
 <div align="center">
-  <sub>Building reliable AI for code, learning, and real-world systems.</sub>
+
+## Hi, I'm Afridi 👋
+
+Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**.
+
+I care about one thing most:  
+**making AI systems reliable enough to be genuinely useful.**
+
 </div>
+
+---
+
+### Featured
+
+**📐 Pinned-Contract Evaluation**  
+Policy-grounded evaluation for **LLM-based PHP migration** with reproducible scoring, pinned upgrade contracts, and cross-oracle diagnostics.
+
+**🎯 ExamCraft**  
+An **AI-powered exam prep platform** with quizzes, flashcards, mock exams, and learning analytics.
+
+**📚 Bangla Textbook RAG**  
+Hierarchy-aware retrieval and hybrid fusion for **educational QA in Bangla** in a low-resource setting.
+
+---
+
+### Stack
+
+`TypeScript` `JavaScript` `Python` `SQL` `React` `Next.js` `NestJS` `
