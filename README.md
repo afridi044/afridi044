@@ -1,16 +1,10 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:7C3AED,50:EC4899,100:22D3EE&text=Afridi%20Mahmud&fontColor=ffffff&fontSize=36&fontAlignY=54&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=73&descColor=f8fafc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=185&color=0:7C3AED,50:EC4899,100:22D3EE&text=Afridi%20Mahmud&fontColor=ffffff&fontSize=36&fontAlignY=58&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=79&descColor=f8fafc&animation=fadeIn" width="100%" />
 </div>
-
-<br/>
-
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818CF8&center=true&vCenter=true&width=680&height=40&lines=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful;LLMs%20for%20Code%20%7C%20RAG%20Systems%20%7C%20AI%20for%20Education;If%20you%20can%27t%20evaluate%20it%2C%20you%20don%27t%20understand%20it"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818CF8&center=true&vCenter=true&width=680&height=28&lines=If%20you%20can%27t%20evaluate%20it%2C%20you%20don%27t%20understand%20it" />
 </div>
 
 <br/>
