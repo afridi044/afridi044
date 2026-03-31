@@ -17,18 +17,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=Hi,%20I'm%20Afridi%20%F0%9F%91%8B&fontColor=4338CA&fontSize=24&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=Hi,%20I'm%20Afridi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=24&animation=scaleIn" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=72&text=Final-year%20CSE%20student%20at%20BUET&fontColor=4C1D95&fontSize=18&fontAlignY=36&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=6D28D9&descSize=11&descAlignY=68&animation=scaleIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=72&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=18&fontAlignY=36&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=ffffff&descSize=11&descAlignY=68&animation=scaleIn" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=5B21B6&fontSize=14&animation=scaleIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=ffffff&fontSize=14&animation=scaleIn" width="100%" />
 
 </div>
-
 ---
 
 ### 〉Featured Work
