@@ -16,6 +16,10 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,100:6D28D9" width="78%" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=Hi,%20I'm%20Afridi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=24&animation=scaleIn" />
 
 <br/>
@@ -25,6 +29,10 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=ffffff&fontSize=14&animation=scaleIn" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,100:6D28D9" width="78%" />
 
 </div>
 ---
