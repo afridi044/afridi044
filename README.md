@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:7C3AED,50:EC4899,100:22D3EE&text=S.M%20Afridi%20Mahmud&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=15&descAlignY=75&descColor=f8fafc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=12,20,24,30&text=S.M%20Afridi%20Mahmud&fontColor=ffffff&fontSize=40&fontAlignY=42&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20BUET%20CSE&descSize=16&descAlignY=62&descColor=f8fafc&animation=fadeIn" width="100%" />
 
 </div>
 
