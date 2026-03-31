@@ -14,27 +14,7 @@
 </p>
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,100:6D28D9" width="78%" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=Hi,%20I'm%20Afridi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=24&animation=scaleIn" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=72&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=18&fontAlignY=36&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=ffffff&descSize=11&descAlignY=68&animation=scaleIn" width="100%" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful.&fontColor=ffffff&fontSize=14&animation=scaleIn" width="100%" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,100:6D28D9" width="78%" />
-
-</div>
+<div align="center"> ### Hi, I'm Afridi 👋 Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**. *I care about one thing most — making AI systems reliable enough to be genuinely useful.* </div>
 ---
 
 ### 〉Featured Work
