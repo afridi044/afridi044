@@ -15,13 +15,32 @@
 
 
 <div align="center">
-  
-### Hi, I'm Afridi 👋 
 
-Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=9999&color=8B5CF6&center=true&vCenter=true&width=320&height=18&lines=AFRIDI+MAHMUD+%C2%B7+BUET+CSE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&pause=9999&color=8B5CF6&center=true&vCenter=true&width=320&height=18&lines=AFRIDI+MAHMUD+%C2%B7+BUET+CSE" />
+</picture>
 
-*I care about one thing most — making AI systems reliable enough to be genuinely useful.*
+</div>
 
+<br/>
+
+<p align="center">
+<i>
+Final-year CSE student at BUET,<br/>
+working on <b>LLMs for code</b>, RAG systems, and AI for education.
+</i>
+</p>
+
+<br/>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td>
+
+> *I care about one thing most —*<br/>
+> *making AI systems reliable enough to be genuinely useful.*
+
+</td></tr></table>
 </div>
 ---
 
