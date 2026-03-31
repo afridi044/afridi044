@@ -7,9 +7,10 @@
 <br/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818cf8&center=true&vCenter=true&width=680&height=40&lines=→+Making+AI+systems+reliable+enough+to+be+genuinely+useful;→+LLMs+for+Code+%7C+RAG+Systems+%7C+AI+for+Education;→+If+you+can't+evaluate+it%2C+you+don't+understand+it" />
-
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2000&color=818CF8&center=true&vCenter=true&width=680&height=40&lines=Making%20AI%20systems%20reliable%20enough%20to%20be%20genuinely%20useful;LLMs%20for%20Code%20%7C%20RAG%20Systems%20%7C%20AI%20for%20Education;If%20you%20can%27t%20evaluate%20it%2C%20you%20don%27t%20understand%20it"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
