@@ -17,11 +17,15 @@
 
 <div align="center">
 
-### Hi, I'm Afridi 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:7C3AED,100:A855F7&text=Hi,%20I'm%20Afridi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=28&animation=fadeIn" />
 
-Final-year **CSE student at BUET** working on **LLMs for code, RAG systems, and AI for education**.
+<br/>
 
-*I care about one thing most — making AI systems reliable enough to be genuinely useful.*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:EC4899,100:F59E0B&text=Final-year%20CSE%20student%20at%20BUET&fontColor=ffffff&fontSize=22&fontAlignY=38&desc=LLMs%20for%20code%20%E2%80%A2%20RAG%20systems%20%E2%80%A2%20AI%20for%20education&descColor=fff7ed&descSize=13&descAlignY=68" width="100%" />
+
+<br/>
+
+<sub><i>Making AI systems reliable enough to be genuinely useful.</i></sub>
 
 </div>
 
