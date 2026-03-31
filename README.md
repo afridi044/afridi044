@@ -36,7 +36,7 @@ working on <b>LLMs for code</b>, RAG systems, and AI for education.
 
 <div align="center">
 <div align="center">
-  <i>making AI systems reliable enough to be genuinely useful.</i>
+  > *making AI systems reliable enough to be genuinely useful.*
 </div>
 </div>
 
