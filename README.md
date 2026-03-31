@@ -1,16 +1,60 @@
-## Hi there 👋
+# 🧠 S.M Afridi Mahmud
 
-<!--
-**afridi044/afridi044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that bridge **software engineering and education**.
 
-Here are some ideas to get you started:
+Currently a final-year CSE student at BUET, I focus on how **Large Language Models can reliably transform code and enhance learning systems** — from automated PHP migration frameworks to intelligent tutoring platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- 🧪 Researching **LLM-assisted code refactoring & migration**
+- 🧠 Designing **evaluation frameworks for AI-generated code**
+- 📚 Building **AI-powered educational systems** (quizzes, tutors, analytics)
+- ⚙️ Developing **RAG pipelines with hybrid retrieval and grounding**
+- 🏗️ Shipping **full-stack systems** with modern, scalable architecture
+
+---
+
+## 🔬 Current Focus
+
+- Reliability & evaluation of LLM-generated code  
+- Retrieval-Augmented Generation (RAG) for learning systems  
+- AI for Software Engineering & Education  
+
+---
+
+## 🏗️ Selected Work
+
+### 🎓 ExamCraft  
+AI-powered exam preparation platform with quizzes, flashcards, and performance analytics.
+
+### 🌿 Biology Tutor Chatbot  
+Hybrid RAG-based system for Bangla biology QA with multilingual support and citation grounding.
+
+### 📄 Pinned-Contract Evaluation  
+A policy-grounded framework for evaluating LLM-based PHP code migration.
+
+---
+
+## ⚡ Tech I Work With
+
+TypeScript • Next.js • NestJS • Supabase • Docker  
+LLMs (OpenAI, Gemini, OpenRouter) • RAG • Vector Search • CI/CD  
+
+---
+
+## 🎯 Direction
+
+I’m interested in pushing **LLMs from impressive demos → reliable systems**  
+especially in:
+- software maintenance  
+- developer tooling  
+- education at scale  
+
+---
+
+## 🌐 Connect
+
+📧 afridimahmud99@gmail.com  
+💼 LinkedIn: (add yours)
