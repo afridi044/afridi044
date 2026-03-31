@@ -35,11 +35,11 @@ working on <b>LLMs for code</b>, RAG systems, and AI for education.
 <br/>
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0"><tr><td>
-
-> *making AI systems reliable enough to be genuinely useful.*
-
-</td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><i>making AI systems reliable enough to be genuinely useful.</i></td>
+  </tr>
+</table>
 </div>
 
 ### 〉Featured Work
